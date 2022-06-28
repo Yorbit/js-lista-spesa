@@ -1,0 +1,13 @@
+section {
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+.center-flex {
+    justify-content: center;
+    display: flex;
+}
